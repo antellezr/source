@@ -1,0 +1,7 @@
+[submodule "antellezr/themes/hugo-book"]
+	path = antellezr/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "antellezr/public"]
+	path = antellezr/public
+	url = https://github.com/antellezr/antellezr.github.io.git
+	branch = main

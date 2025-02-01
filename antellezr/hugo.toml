@@ -1,0 +1,9 @@
+baseURL = 'https://antellezr.github.io/'
+languageCode = 'en-us'
+title = 'Angel Tellez Portfolio'
+theme = 'hugo-book'
+
+# Needed for shortcodes
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
