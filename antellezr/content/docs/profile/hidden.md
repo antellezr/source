@@ -2,7 +2,7 @@
 bookHidden: true
 ---
 
-# This page is hidden in menu (THIS IS A TEST)
+# This page is hidden in menu (THIS IS A TEST FOR PEER REVIEW)
 
 # Quondam non pater est dignior ille Eurotas
 
