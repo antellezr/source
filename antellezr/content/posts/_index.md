@@ -1,7 +1,8 @@
 ---
-# menu:
-#  after:
-#    name: blog
-#    weight: 5
 title: Blog
+menu:
+  before: 
+    name: blog
+    weight: 999
+
 ---
