@@ -5,11 +5,11 @@ weight: 1
 
 # Create a Portfolio Website
 
-**Purpose**
+## Purpose
 
 This document describes the process for creating a static portfolio website using Hugo and GitHub Pages.
 
-**Audience**
+## Audience
 
 This document is intended for individuals interested in using Hugo and GitHub Pages to create and host a portfolio.
 
