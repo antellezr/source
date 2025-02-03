@@ -138,6 +138,14 @@ These initiatives promoted a stronger technical writing community and improved o
 
 ---
 
+## Certifications
+
+- [Technical Writing Certificate (Wizeline)](/docs/resume/TW-Cert.pdf)
+- [Certified SAFe® 4 Scrum Master (Scaled Agile, Inc.)](https://www.credly.com/badges/8a9785e2-3532-44aa-b7fd-c4568d0b1c9e/)
+- [Certified SAFe® 4 Agilist (Scaled Agile, Inc.)](https://www.credly.com/badges/e29ed1c4-cf88-4f2d-ba0d-f82e9a3bcc80/)
+
+---
+
 ## Education
 
 _B.S. in Computer Science Engineering (2007)_\
