@@ -56,7 +56,7 @@ To create the `source` content repository from GitHub's web UI, follow the next 
 
    </center>
 3. From the **Owner** dropdown list, select the account you want to own the repository.
-4. Type the name of your repository, in this example, `source`
+4. Type the name of your repository, in this example, `source`.
 5. Select `Public` as the repository visibility. To learn more about public and private repositories, see [About repository visibility](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility).
 6. Click the **Create repository** button at the bottom of the page.\
     **Figure 2** displays the the repository overview page.
