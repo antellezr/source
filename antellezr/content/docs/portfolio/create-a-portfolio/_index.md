@@ -48,14 +48,24 @@ To create the `source` content repository from GitHub's web UI, follow the next 
 
 1. Go to your GitHub dashboard.\
     {{<button href="https://github.com/dashboard">}}GitHub Dashboard{{</button>}}
-2. In the upper-right corner of the page, select the **New Repository** option from the  **+** drowpdown list.
-   ![New Repository](new-repository.jpg "New Repository")
+2. In the upper-right corner of the page, select the **New Repository** option from the  **+** drowpdown list, as shown in **Figure 1.**
+   <center>
+
+      ![New Repository](new-repository.jpg "New Repository")\
+      **Figure 1. Create a New Repository**
+
+   </center>
 3. From the **Owner** dropdown list, select the account you want to own the repository.
 4. Type the name of your repository, in this example, `source`
 5. Select `Public` as the repository visibility. To learn more about public and private repositories, see [About repository visibility](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility).
 6. Click the **Create repository** button at the bottom of the page.\
-    The **Repository overview page** is displayed.
-    ![Repository overview page](source-repo-overview.jpg)
+    **Figure 2** displays the the repository overview page.
+
+   <center>
+
+   ![Repository overview page](source-repo-overview.jpg)\
+   **Figure 2. Repository Overview Page Preview**
+   </center>
 
 {{% hint info %}}
 **Note**: You can also create a repository using the GitHub CLI. To learn more, see [`gh repo create`](https://cli.github.com/manual/gh_repo_create) in the GitHub CLI documentation.
@@ -84,7 +94,7 @@ Hugo is a static site generator that transforms Markdown files into a structured
 1. In the location of your choice, clone the `source` repository:
 
     ```bash
-    git clone https://github.com/antellezr/source.git
+    git clone https://github.com/{github-username}/source.git
     ```
 
 2. Change to your `source` directory:
@@ -178,7 +188,7 @@ To clone the GitHub Pages Site Repository, follow the next steps:
 2. Clone the GitHub Pages repository:
 
    ```bash
-   clone repo https://github.com/antellezr/antellezr.github.io.git
+   clone repo https://github.com/{github-username}/{github-username}.github.io.git
    ```
 
 3. Navigate into the repository:
@@ -214,7 +224,7 @@ To connect your Hugo project to the GitHub Pages repository, follow these steps.
 2. Add the site repository as a submodule:
 
    ```bash
-   git submodule add -b main https://github.com/antellezr/antellezr.github.io.git public
+   git submodule add -b main https://github.com/{github-username}/{github-username}.github.io.git public
    ```
 
 3. Verify the submodule was added:

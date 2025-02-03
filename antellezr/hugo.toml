@@ -7,3 +7,18 @@ theme = 'hugo-book'
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "tango"
+    tabWidth = 4
+[params]
+  BookSection = "menu"  # Forces Hugo-book to use only "content/menu/"
+  BookMenuBundle = "menu" # Limits the sidebar to the menu bundle
+

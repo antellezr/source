@@ -10,5 +10,5 @@ Each sample reflects my approach to creating clear, structured, and user-focused
 
 Browse through the entries below to explore my work, and feel free to [reach out](mailto:angel.tellez.rosales@gmail.com) if you have any questions.
 
-- [Create a Portfolio Website](../portfolio/create-a-portfolio/)
-- [Downloads Organizer Script Documentation](../portfolio/script-doc/)
+- [Create a Portfolio Website](/docs/portfolio/create-a-portfolio/)
+- [Downloads Organizer Script Documentation](/docs/portfolio/script-doc/)

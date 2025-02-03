@@ -24,7 +24,8 @@ I’ve been recognized for blending deep technical knowledge with strategic thin
 
 I’m here to simplify the complex so people can work better, faster, and with greater confidence.
 
-> Want to know more about my work? See my [portfolio](../portfolio/).
+Want to know more about my work? See my [portfolio](/docs/portfolio/).
+
 ---
 
 ## Skills
@@ -36,10 +37,10 @@ I’m here to simplify the complex so people can work better, faster, and with g
 - Information Architecture
 - Documentation Standardization
 - Cross-Functional Collaboration
-- Agile Scrum Methodology
 - Audience Analysis
 - Documentation Scoping
 - Gap Analysis
+- Agile Scrum Methodology
 
 <--->
 
@@ -75,7 +76,7 @@ I’m here to simplify the complex so people can work better, faster, and with g
 
 ### Media & Publishing Industry
 
-In this project, I contributed to improving API documentation and migrating content to a new developer portal while minimizing disruptions.
+Contributed to improving API documentation and migrating content to a new developer portal while minimizing disruptions.
 
 - **API Documentation Audit**: Audited API documentation and contributed to an improved API specification workflow.
 - **Docs-as-Code Migratio**n: Led the migration of documentation to a new developer portal, ensuring seamless accessibility for users.
@@ -98,7 +99,7 @@ This documentation empowered cross-functional teams to adopt new technologies ef
 
 ### Consulting & Accounting Industry
 
-I improved API documentation consistency and introduced automation to streamline content creation.
+Improved API documentation consistency and introduced automation to streamline content creation.
 
 - **API Documentation Standardization**: Unified structure and terminology across multiple products, improving clarity.
 - **Markdown-to-HTML Automation**: Developed a semi-automated process to convert Markdown tables to HTML, reducing documentation time by 66%.
@@ -108,7 +109,7 @@ These initiatives enhanced documentation efficiency and reduced manual effort ac
 
 ### Media & Entertainment Industry
 
-I developed process-oriented documentation and operational guides to improve workflows across design, QA, and engineering teams.
+Developed process-oriented documentation and operational guides to improve workflows across design, QA, and engineering teams.
 
 - **Operational Runbooks**: Created process documentation, templates, and guides for various teams.
 - **Self-Guided Onboarding**: Designed an onboarding framework that reduced ramp-up time by 50%.
@@ -118,7 +119,7 @@ These efforts streamlined onboarding, reduced response times, and improved knowl
 
 ### Retail Industry
 
-I led documentation efforts to improve internal processes.
+Led documentation efforts to improve internal processes.
 
 - **IT Infrastructure Documentation**: Developed guides covering architecture, DevOps, CI/CD, and software engineering best practices.
 - **Internal Style Guide and Templates**: Standardized documentation practices across multiple teams, leading to widespread adoption among the company.
@@ -134,11 +135,11 @@ Beyond project-based work, I have contributed to initiatives that enhance techni
 - **TW Buddy Program**: Launched a peer-support initiative to help new team members integrate smoothly.
 - **Onboarding Documentation**: Consolidated essential information into a Quick-Start Guide, reducing information overload for new hires.
 
-These initiatives fostered a stronger technical writing community and improved onboarding experiences.
+These initiatives promoted a stronger technical writing community and improved onboarding experiences.
 
 ---
 
 ## Education
 
-_B.S. in Computer Science Engineering (2007)_ \
+_B.S. in Computer Science Engineering (2007)_\
 Technological Institute of Celaya, Mexico.

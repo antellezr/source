@@ -1,0 +1,3 @@
+nav .book-menu a[href="/blog/"] {
+    display: none;
+  }
