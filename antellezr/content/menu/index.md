@@ -23,7 +23,7 @@ headless: true
 
 ---
 
-**Links**
+**About Me**
 
 [Resume](/docs/resume/Angel-Tellez-CV.pdf)
 <br/>
@@ -34,3 +34,5 @@ headless: true
 [GitHub](https://github.com/antellezr)
 
 ---
+
+[Blog](/posts/)

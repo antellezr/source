@@ -1,8 +1,8 @@
 ---
 title: Blog
-menu:
-  before: 
-    name: blog
-    weight: 999
+#menu:
+#  before: 
+#    name: blog
+#    weight: 999
 
 ---
