@@ -252,7 +252,7 @@ To make your Hugo site publicly accessible, you need to generate the static webs
 2. Generate the static website:
 
    ```bash
-   hugo -t hugo-book
+   hugo
    ```
 
 3. Navigate to the `public` directory:
