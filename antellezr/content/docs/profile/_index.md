@@ -79,7 +79,7 @@ Want to know more about my work? See my [portfolio](/docs/portfolio/).
 Contributed to improving API documentation and migrating content to a new developer portal while minimizing disruptions.
 
 - **API Documentation Audit**: Audited API documentation and contributed to an improved API specification workflow.
-- **Docs-as-Code Migration**: Contributed in the migration of documentation to a new developer portal, ensuring seamless accessibility for users.
+- **Docs-as-Code Migration**: Contributed to the migration of documentation to a new developer portal, ensuring seamless accessibility for users.
 - **AI-Driven Scripting**: Automated two critical tasks:
   - **Link Updates**: Automated the process of scanning and updating outdated image links in Markdown files.
   - **URL Redirects**: Converted and redirected legacy URLs, restoring 86% of broken links and proposing likely matches for the remaining cases.

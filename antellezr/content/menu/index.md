@@ -4,7 +4,7 @@ headless: true
 
 ---
 
-[**Profile**](/docs/profile/)
+[**Profile**](/)
 
 ---
 
