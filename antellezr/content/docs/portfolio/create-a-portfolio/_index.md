@@ -51,7 +51,7 @@ To create the `source` content repository from GitHub's web UI, follow the next 
 2. In the upper-right corner of the page, select the **New Repository** option from the  **+** drowpdown list, as shown in **Figure 1.**
    <center>
 
-      ![New Repository](new-repository.jpg "New Repository")\
+      <img src="new-repository.jpg" alt="New Repository" title="New Repository" class="img-border" style="border: 1px solid lightgrey; border-radius: 5px; padding: 5px;">\
       **Figure 1. Create a New Repository**
 
    </center>
@@ -63,7 +63,7 @@ To create the `source` content repository from GitHub's web UI, follow the next 
 
    <center>
 
-   ![Repository overview page](source-repo-overview.jpg)\
+   <img src="source-repo-overview.jpg" alt="Repository overview page" title="Repository overview page" class="img-border" style="border: 1px solid lightgrey; border-radius: 5px; padding: 5px;">\
    **Figure 2. Repository Overview Page Preview**
    </center>
 
