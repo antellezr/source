@@ -188,7 +188,7 @@ To clone the GitHub Pages Site Repository, follow the next steps:
 2. Clone the GitHub Pages repository:
 
    ```bash
-   clone repo https://github.com/{github-username}/{github-username}.github.io.git
+   git clone https://github.com/{github-username}/{github-username}.github.io.git
    ```
 
 3. Navigate into the repository:
