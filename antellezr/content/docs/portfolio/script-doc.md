@@ -282,7 +282,7 @@ if __name__ == "__main__":
     print("Organization complete.")
 ```
 
-The script execution follows the next steps:
+The script follows the next steps:
 
 1. Calls `organize_files` to process the Downloads directory.
 2. Calls `process_big_files` to handle large files.

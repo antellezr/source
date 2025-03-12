@@ -17,13 +17,20 @@ This document is intended for individuals interested in using Hugo and GitHub Pa
 
 To create and publish a portfolio website, take the following steps:
 
-1. [Create two GitHub repositories to host the content and the site's files](#create-the-github-repositories)
-2. [Create a Hugo site](#create-a-hugo-site)
-3. [Set up the site configuration file](#set-up-the-site-configuration-file)
-4. [Add content to the site](#add-content-to-the-site)
-5. [Clone the GitHub Pages Site Repository](#clone-the-github-pages-site-repository)
-6. [Add the GitHub Site Repository as a Submodule](#add-the-github-site-repository-as-a-submodule)
-7. [Deploy the site using GitHub Pages](#deploy-the-site-using-github-pages)
+- [Create a Portfolio Website](#create-a-portfolio-website)
+  - [Purpose](#purpose)
+  - [Audience](#audience)
+  - [Overview](#overview)
+  - [Prerequisites](#prerequisites)
+  - [Create the GitHub Repositories](#create-the-github-repositories)
+    - [Content Repository](#content-repository)
+    - [Site Repository](#site-repository)
+  - [Create a Hugo site](#create-a-hugo-site)
+  - [Set Up the Site Configuration File](#set-up-the-site-configuration-file)
+  - [Add Content to the Site](#add-content-to-the-site)
+  - [Clone the GitHub Pages Site Repository](#clone-the-github-pages-site-repository)
+  - [Add the GitHub Site Repository as a Submodule](#add-the-github-site-repository-as-a-submodule)
+  - [Deploy the Site Using GitHub Pages](#deploy-the-site-using-github-pages)
 
 ## Prerequisites
 
@@ -200,7 +207,7 @@ To clone the GitHub Pages Site Repository, follow the next steps:
 4. Create a README file:
 
    ```bash
-   Touch README.md
+   touch README.md
    ```
 
 5. Commit and push the README file to the repository:
